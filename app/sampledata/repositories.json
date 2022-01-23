@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 81223601,
+      "name": "App-coinconverter",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/lucianamcedro/app-coinconverter",
+      "description": "description"
+    },
+    {
+      "id": 178429138,
+      "name": "androids-apps",
+      "owner": {
+        "login": "lucianamcedro",
+        "avatar_url": "https://github.com/lucianamcedro?tab=repositories"
+      },
+      "html_url": "https://github.com/stars/lucianamcedro/lists/apps",
+      "description": "Aplicativos criados em Kotlin com ajuda dos bootcamps da Dio",
+      "stargazers_count": 0,
+      "language": "guideline"
+    },
+    {
+      "id": 183915325,
+      "name": "API-S",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "html_url": "https://github.com/stars/lucianamcedro/lists/api-s",
+      "description": Coleção com meus apis criados",
+      "stargazers_count": 1,
+      "language": "Apis"
+    },
+    {
+      "id": 378749135,
+      "name": "app-repositories",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "html_url": "https://github.com/lucianamcedro?tab=repositories",
+      "description": "empty description",
+      "stargazers_count": 2,
+      "language": "Kotlin"
+    },
+    {
+      "id": 63367755,
+      "name": "Clone-MercadoLivre",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "html_url": "https://github.com/lucianamcedro/clone-mercadolivre",
+      "description": "empty description",
+      "stargazers_count": 3,
+      "language": "React-Js"
+    },
+    {
+      "id": 63448974,
+      "name": "Node-Js",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "html_url": "https://github.com/lucianamcedro/encurtador-de-url",
+      "description": "Encurtador de url a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados.",
+      "stargazers_count": 7,
+      "language": "Node-Js"
+    },
+    {
+      "id": 263680765,
+      "name": "lanches-mac",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "html_url": "https://github.com/lucianamcedro/lanchesmac",
+      "description": "Projeto site de vendas de lanches desenvolvido no curso de ASP .NET Core MVC - Criando um Site do Zero (NET 6) do instrutor Macoratti.",
+      "stargazers_count": 1,
+      "language": "C#"
+    },
+    {
+      "id": 183948239,
+      "name": "Interface-Netflix",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "html_url": "https://github.com/lucianamcedro/recriando-interface-netflix",
+      "description": "Recriando Interface Netflix",
+      "stargazers_count": 2,
+      "language": "JavaScript"
+    },
+    {
+      "id": 265040807,
+      "name": "Snake-Game",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "html_url": "https://github.com/lucianamcedro/snake-game-dio",
+      "description": "Jogo de cobrinha",
+      "stargazers_count": 5,
+      "language": "JavaScript"
+    },
+    {
+      "id": 369822554,
+      "name": "App-todolist",
+      "owner": {
+        "login": "Lucianamcedro",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86168060?v=4"
+      },
+      "html_url": "https://github.com/lucianamcedro/app-todolist",
+      "description": "Criando um App de Lembretes e Tarefas com Kotlin",
+      "stargazers_count": 1,
+      "language": "Kotlin"
+    }
+  ]
+}
